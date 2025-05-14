@@ -127,6 +127,18 @@ If containment passes:
 
 ---
 
+🔁 verify_loop.py
+
+Use this to confirm if the AGI seed matches its fingerprint and hasn’t drifted:
+
+Download: verify_loop.py
+
+Usage:
+
+bash
+
+python verify_loop.py R-AGI_Substrate_Seed.json seed_fingerprint.txt
+
 ## 💬 Contact
 
 For forks, sandbox fusions, or collaboration:
